@@ -1,0 +1,17 @@
+We’ve gone through the basics of NOMA and seen how it outperforms traditional 
+OFDMA in terms of Sum Capacity, Energy Efficiency, and Spectral Efficiency. We’ve
+also spoken about how imperfection at the SIC receiver affects device efficiency.
+NOMA remains the best choice for potential 5G networks due to its unique features.
+Figures 6.4 and 6.5 depict the system’s outage probability vs SNR for two and
+three users, respectively. The simulated and empirical values derived from outage
+Probability expressions are nearly identical.It’s also observed that at high SNR, the
+outage Probability curve reaches the asymptotic floor. It can also be shown that as
+the value of βu1r increases, the value of this asymptotic floor decreases monotonically.
+The outage Probability of two users versus SNR for HD/FD NOMA is plotted in
+Figure 6.8. In the presence of low SNR, the outage output of FD NOMA outperforms
+that of HD NOMA. This is due to the fact that LI is not a significant impact factor
+for FD NOMA in the low SNR region. In the high SNR region, the asymptotic
+curves closely resemble the exact performance curves. It is demonstrated that error
+floors occur in FD NOMA and that zero diversity order can be obtained. This is due
+to the fact that in FD NOMA, there is loop interference. In the high SNR region,
+the HD NOMA outperforms the FD NOMA.
